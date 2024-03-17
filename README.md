@@ -33,6 +33,9 @@ To use this implementation of the merge and count algorithm, follow these steps:
 
 6. The script will output the number of inversions in the input list and the sorted list.
 
+# Requirements
+Python 3.x
+
 ## Example
 - Takes a list of numbers: [3, 4, 5, 6, 2, 1, 3, 5]
 - Returns the list in order as well as the inversions (number that is greater than the other number)
