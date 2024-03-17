@@ -35,7 +35,9 @@ To use this implementation of the merge and count algorithm, follow these steps:
 
 ## Example
 - Takes a list of numbers: [3, 4, 5, 6, 2, 1, 3, 5]
-- Returns the list in order as well as the inversions (number that is greater than the other other number)
+- Returns the list in order as well as the inversions (number that is greater than the other number)
+
+  ![merge_and_sort](https://github.com/kainoa7/merge_and_count/assets/97155994/0e849311-d3c3-4b49-bee6-47a4e5a67502)
 
 
 
